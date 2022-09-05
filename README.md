@@ -2,6 +2,7 @@
  A comprehensive collection of Free and Open Source Fonts!!
 
 ## Free Fonts
+- [**Apple Fonts**](https://developer.apple.com/fonts/)
 - [**Unbounded**](https://github.com/w3f/unbounded)
 - [**Inter**](https://rsms.me/inter/)
 - [**Manrope**](https://www.manropefont.com/)
