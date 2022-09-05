@@ -6,7 +6,7 @@
 - [**Inter**](https://rsms.me/inter/)
 - [**Manrope**](https://www.manropefont.com/)
 - [**Open Sans**](https://github.com/googlefonts/opensans)
-- [**IBM Plex**](https://www.ibm.com/plex/)
+- [**IBM Plex**](https://github.com/IBM/plex/releases)
 
 ## Brand Fonts
 - [**Oracle Sans**](https://www.morlandesign.com/work/oracle-sans)
