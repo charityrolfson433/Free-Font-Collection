@@ -8,6 +8,7 @@
 - [**Manrope**](https://www.manropefont.com/)
 - [**Open Sans**](https://github.com/googlefonts/opensans)
 - [**IBM Plex**](https://github.com/IBM/plex/releases)
+- [**Fantasque Sans Mono**](https://github.com/belluzj/fantasque-sans/releases)
 
 ## Brand Fonts
 - [**Oracle Sans**](https://www.morlandesign.com/work/oracle-sans)
